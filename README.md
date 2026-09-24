@@ -18,11 +18,10 @@ I build modern, responsive web interfaces and experiment with AI-powered digital
 
 - 💻 **Frontend Developer** focused on modern web interfaces
 - ⚛️ Building with **React, HTML, CSS, JavaScript, and Vite**
-- 🤖 Using **AI tools and APIs** to build and improve web applications
+- 🤖 Using **AI tools and APIs** as development assistants
 - 🧠 Learning **JavaScript, React, TypeScript, and C++**
-- 🎨 Interested in clean UI, responsive design, animations, and creative digital products
-- 🔐 Exploring cybersecurity and ethical hacking
-- 🌱 Learning by building real projects, debugging, and improving continuously
+- 🎨 Interested in clean UI, responsive design, animation, and creative digital products
+- 🌱 Learning by building real projects, debugging, testing, and improving continuously
 - 📍 Pakistan
 
 > **Learn. Build. Debug. Improve. Repeat.**
@@ -54,6 +53,17 @@ I build modern, responsive web interfaces and experiment with AI-powered digital
 
 ## ⭐ Featured Projects
 
+### ✦ AstraFlow AI — Developer Workspace
+
+An AI-powered developer workspace built to turn coding questions into practical debugging, planning, explanation, and implementation steps.
+
+**Focus:** React • TypeScript • Gemini API • Vercel • responsive UI • developer tooling
+
+🔗 **Live:** https://astra-flow-ai.vercel.app/  
+🔗 **Repository:** https://github.com/CodeWithSyed786/AstraFlow-AI
+
+---
+
 ### 🕌 Eman AI — Islamic Assistant
 
 An AI-powered Islamic learning application with a conversational interface and Islamic-focused features.
@@ -65,7 +75,7 @@ An AI-powered Islamic learning application with a conversational interface and I
 
 ---
 
-### 💼 Syed Eman — AI Architect Portfolio
+### 💼 Syed Eman — Frontend Portfolio
 
 A modern personal portfolio built with React and TypeScript to showcase my projects, skills, experiments, and developer journey.
 

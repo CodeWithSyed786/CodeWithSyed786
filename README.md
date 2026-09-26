@@ -4,8 +4,11 @@
 
 ### Frontend Developer • React Developer • AI-Assisted Builder
 
-I build modern, responsive web interfaces and experiment with AI-powered digital experiences.
+I build modern, responsive web experiences, experiment with AI-assisted development, and turn ideas into real projects.
 
+<a href="https://code-with-syed.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-code--with--syed.vercel.app-0e75b6?style=for-the-badge" alt="Portfolio" />
+</a>
 <a href="https://github.com/CodeWithSyed786">
   <img src="https://komarev.com/ghpvc/?username=CodeWithSyed786&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </a>
@@ -16,15 +19,17 @@ I build modern, responsive web interfaces and experiment with AI-powered digital
 
 ## 🚀 About Me
 
+I'm Syed Eman — a developer building my skills one project at a time.
+
 - 💻 **Frontend Developer** focused on modern web interfaces
 - ⚛️ Building with **React, HTML, CSS, JavaScript, and Vite**
-- 🤖 Using **AI tools and APIs** as development assistants
+- 🤖 Exploring **AI-assisted development** and AI-powered digital experiences
 - 🧠 Learning **JavaScript, React, TypeScript, and C++**
 - 🎨 Interested in clean UI, responsive design, animation, and creative digital products
-- 🌱 Learning by building real projects, debugging, testing, and improving continuously
+- 🌱 Learning by building real projects, debugging, testing, and improving
 - 📍 Pakistan
 
-> **Learn. Build. Debug. Improve. Repeat.**
+> **Build. Learn. Share. Repeat.**
 
 ---
 
@@ -54,46 +59,29 @@ I build modern, responsive web interfaces and experiment with AI-powered digital
 ## ⭐ Featured Projects
 
 ### ✦ AstraFlow AI — Developer Workspace
-
-An AI-powered developer workspace built to turn coding questions into practical debugging, planning, explanation, and implementation steps.
-
-**Focus:** React • TypeScript • Gemini API • Vercel • responsive UI • developer tooling
+An AI-powered developer workspace for practical debugging, planning, explanation, and implementation.
 
 🔗 **Live:** https://astra-flow-ai.vercel.app/  
 🔗 **Repository:** https://github.com/CodeWithSyed786/AstraFlow-AI
 
----
-
 ### 🕌 Eman AI — Islamic Assistant
-
 An AI-powered Islamic learning application with a conversational interface and Islamic-focused features.
-
-**Focus:** AI integration • conversational UI • responsive frontend • Firebase • Islamic learning experience
 
 🔗 **Live:** https://eman-ai-b85da.web.app  
 🔗 **Repository:** https://github.com/CodeWithSyed786/EmanAi-Islamic-Assistant
 
----
+### 💼 Syed Eman — Portfolio
+My main portfolio for projects, skills, experiments, and my developer journey.
 
-### 💼 Syed Eman — Frontend Portfolio
-
-A modern personal portfolio built with React and TypeScript to showcase my projects, skills, experiments, and developer journey.
-
-**Built with:** React • TypeScript • Vite • Three.js • Framer Motion • Google Gemini
-
-🔗 **Live:** https://code-with-syed-573ac.web.app  
+🔗 **Live:** https://code-with-syed.vercel.app  
 🔗 **Repository:** https://github.com/CodeWithSyed786/Syed-Eman-Portfolio
 
----
+> The Vercel portfolio is now the **primary portfolio link**. The older Firebase deployment can remain online as a legacy deployment, but it is no longer the main profile link.
 
 ### 🩺 Dr. Kinza Saleem Portfolio
-
 A responsive professional website created to present a doctor's profile, specialties, achievements, and online presence.
 
-**Focus:** frontend development • responsive UI • modern web presentation
-
-🔗 **Live:** https://dr-kinza-portfolio.web.app  
-🔗 **Repository:** https://github.com/CodeWithSyed786/Dr-Kinza-Saleem
+🔗 **Live:** https://dr-kinza-portfolio.web.app
 
 ---
 
@@ -114,7 +102,8 @@ A responsive professional website created to present a doctor's profile, special
 - 📸 **Instagram:** https://www.instagram.com/CodeWithSyed786/
 - ▶️ **YouTube:** https://www.youtube.com/@CodeWithSyed786
 - 📘 **Facebook:** https://www.facebook.com/CodeWithSyed786
-- 🌐 **Portfolio:** https://code-with-syed-573ac.web.app/
+- 🎵 **TikTok:** https://www.tiktok.com/@CodeWithSyed786
+- 🌐 **Portfolio:** https://code-with-syed.vercel.app
 - 📧 **Email:** sg541914@gmail.com
 
 ---
